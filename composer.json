@@ -1,7 +1,7 @@
 {
     "name": "mrferos/zulip-php",
     "description": "PHP Zulip Client",
-    "version": "2.0.0-beta",
+    "version": "v2.0.0",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -9,8 +9,8 @@
         }
     },
     "require": {
-        "psr/log": "^1.1",
-        "guzzlehttp/guzzle": "^6.5",
+        "psr/log": "~1.1",
+        "guzzlehttp/guzzle": "^6.5|^7.0",
       "ext-json": "*"
     },
     "license": "MIT",
