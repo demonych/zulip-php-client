@@ -1,5 +1,5 @@
 {
-    "name": "mrferos/zulip-php",
+    "name": "demonych/zulip-php",
     "description": "PHP Zulip Client",
     "version": "v2.0.0",
     "type": "library",
